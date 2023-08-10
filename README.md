@@ -9,7 +9,7 @@ If you find the code useful in your research, please cite
   title={DeepIRT with independent student and item networks},
   author={Emiko Tsutsumi, Yiming Guo, and Maomi Ueno},
   year={2022},
-  booktitle = {},
+  booktitle = {International Conference on Educational Data Mining (EDM)}
 }
 ```
 ## Setups
