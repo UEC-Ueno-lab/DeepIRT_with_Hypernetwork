@@ -5,7 +5,7 @@ Emiko Tsutsumi, Yiming Guo, and Maomi Ueno
 
 If you find the code useful in your research, please cite
 ```
-@inproceedings{EDM2019_Yeung_DeepIRT,
+@inproceedings{EDM2019_DeepIRT,
   title={DeepIRT with independent student and item networks},
   author={Emiko Tsutsumi, Yiming Guo, and Maomi Ueno},
   year={2022},
